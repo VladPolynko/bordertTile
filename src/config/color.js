@@ -1,0 +1,30 @@
+export const colors = {
+    red: '#F44336',
+    purpure: '#7B1FA2',
+    blue: '#2196F3',
+    hardBlue: '#11175b',
+    green: '#4CAF50',
+    yellow: '#FFEB3B',
+    orange: '#FF9800',
+    brown: '#795548',
+    black: '#000000',
+};
+
+export const randomColorsArrays = [
+    colors.red,
+    colors.red,
+    colors.purpure,
+    colors.purpure,
+    colors.blue,
+    colors.blue,
+    colors.hardBlue,
+    colors.hardBlue,
+    colors.green,
+    colors.green,
+    colors.yellow,
+    colors.yellow,
+    colors.orange,
+    colors.orange,
+    colors.brown,
+    colors.brown,
+];

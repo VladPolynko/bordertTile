@@ -1,0 +1,33 @@
+.game {
+    height: 100%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background: #ffd7d8;
+}
+
+.titleWin {
+    color: #334dc9;
+    font-size: 30px;
+}
+
+.game button {
+    margin: 40px;
+}
+
+.tiles{
+    border: 1px solid #222222;
+    width: 680px;
+
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.game .disable {
+    box-sizing: border-box;
+    border: 10px solid #7b7b7b;
+    background: #434343;
+}
